@@ -6,13 +6,12 @@ As the name suggests, the app is a Pokedex. Users may search for Pokemon based o
 
 <p align="center">
   <div>
-    <img width="210" src=searchScreen.png/>
-    <img width="210" src=resultsScreen.png/>
-    <img width="210" src=detailsScreen.png/>
-    <img width="210" src=favoritesScreen.png/>
+    <img width="210" src=Photos/searchScreen.png/>
+    <img width="210" src=Photos/resultsScreen.png/>
+    <img width="210" src=Photos/detailsScreen.png/>
+    <img width="210" src=Photos/favoritesScreen.png/>
   </div>
 </p>
 
 To Do:
 - AutoLayout (currently only works for iPhone 11)
-- Clean up code & add comments
