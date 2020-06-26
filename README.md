@@ -6,10 +6,10 @@ As the name suggests, the app is a Pokedex. Users may search for Pokemon based o
 
 <p align="center">
   <div>
-    <img max-width="25%" src=Photos/searchScreen.png/>
-    <img max-width="25%" src=Photos/resultsScreen.png/>
-    <img max-width="25%" src=Photos/detailsScreen.png/>
-    <img max-width="25%" src=Photos/favoritesScreen.png/>
+    <img width="210" src=Photos/searchScreen.png/>
+    <img width="210" src=Photos/resultsScreen.png/>
+    <img width="210" src=Photos/detailsScreen.png/>
+    <img width="210" src=Photos/favoritesScreen.png/>
   </div>
 </p>
 
